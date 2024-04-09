@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 
-const url = 'http://localhost:8000';
+const url = 'https://backend-two-flame.vercel.app/';
 
 export const addUser = async (data) => {
     try {
