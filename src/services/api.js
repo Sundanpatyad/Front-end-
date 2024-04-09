@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 
-const url = 'https://backend-lkred36af-sundans-projects.vercel.app/';
+const url = `https://server-rosy-six-39.vercel.app/`;
 
 export const addUser = async (data) => {
     try {
